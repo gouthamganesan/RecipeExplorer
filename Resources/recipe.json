@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Butter Naan",
+    "description": "Soft and buttery Indian flatbread.",
+    "ingredients": "Flour, Yogurt, Butter, Baking Soda, Salt",
+    "rawDirections": "1. Mix flour, baking soda, and salt in a bowl.\n2. Add yogurt and water gradually to make a soft dough.\n3. Cover the dough and let it rest for 1 hour.\n4. Roll the dough into small circles.\n5. Heat a tawa or skillet and cook the naan on both sides until golden brown.\n6. Brush with butter and serve hot.",
+    "imageName": "butter_naan",
+    "cuisine": "Indian"
+  },
+  {
+    "id": 2,
+    "title": "Chettinadu Chicken Gravy",
+    "description": "A spicy South Indian chicken curry.",
+    "ingredients": "Chicken, Onion, Tomato, Spices, Coconut",
+    "rawDirections": "1. Heat oil in a pan and sauté onions until golden brown.\n2. Add tomatoes and cook until soft.\n3. Grind fresh coconut and spices into a smooth paste.\n4. Add chicken pieces to the pan and mix well.\n5. Pour the coconut paste over the chicken and simmer for 20 minutes.\n6. Garnish with coriander leaves and serve with rice or paratha.",
+    "imageName": "chettinadu_chicken_gravy",
+    "cuisine": "South Indian"
+  },
+  {
+    "id": 3,
+    "title": "Chicken Biryani",
+    "description": "Aromatic and flavorful chicken rice dish.",
+    "ingredients": "Chicken, Basmati Rice, Yogurt, Spices, Fried Onions",
+    "rawDirections": "1. Wash and soak basmati rice for 30 minutes.\n2. Marinate chicken with yogurt, ginger-garlic paste, and spices for 1 hour.\n3. **Heat oil in a pan**, fry onions until golden brown, and set aside.\n4. Add whole spices (_bay leaf, cinnamon, cloves_) to the same oil and sauté.\n5. Add marinated chicken and cook until it releases oil.\n6. In a separate pot, boil water with salt and cook the rice until 70% done.\n7. Layer the partially cooked rice over the chicken, adding fried onions, mint, and coriander leaves.\n8. Cover tightly and cook on low heat for 20 minutes (dum).",
+    "imageName": "chicken_biryani",
+    "cuisine": "Indian"
+  },
+  {
+    "id": 4,
+    "title": "Japanese Ramen",
+    "description": "Comforting bowl of Japanese noodle soup.",
+    "ingredients": "Noodles, Broth, Pork, Egg, Scallions",
+    "rawDirections": "1. Prepare the broth by simmering pork bones, soy sauce, and miso for 3 hours.\n2. Boil noodles in a separate pot until al dente.\n3. Arrange cooked noodles in a bowl and pour hot broth over them.\n4. Add toppings like boiled egg, pork slices, and scallions.\n5. Serve immediately while hot.",
+    "imageName": "japanese_ramen",
+    "cuisine": "Japanese"
+  },
+  {
+    "id": 5,
+    "title": "Paneer Tikka Masala",
+    "description": "Grilled paneer in creamy tomato-based curry.",
+    "ingredients": "Paneer, Tomato, Cream, Spices",
+    "rawDirections": "1. Marinate paneer cubes with yogurt, spices, and lemon juice for 30 minutes.\n2. Grill the paneer until lightly charred on all sides.\n3. In a pan, heat oil and sauté onions until golden brown.\n4. Add tomato puree and cook until oil separates.\n5. Add cream and mix well to make a smooth curry base.\n6. Add grilled paneer to the curry and simmer for 5 minutes.\n7. Garnish with coriander leaves and serve with naan or rice.",
+    "imageName": "paneer_tikka_masala",
+    "cuisine": "Indian"
+  },
+  {
+    "id": 6,
+    "title": "Schezwan Fried Rice",
+    "description": "Spicy Chinese-style stir-fried rice.",
+    "ingredients": "Rice, Vegetables, Schezwan Sauce, Soy Sauce",
+    "rawDirections": "1. Cook rice and allow it to cool completely.\n2. Heat oil in a wok and stir-fry vegetables on high heat.\n3. Add schezwan sauce and soy sauce, mixing well.\n4. Toss the cooled rice into the wok and mix until well combined.\n5. Garnish with chopped spring onions and serve hot.",
+    "imageName": "schezwan_fried_rice",
+    "cuisine": "Chinese"
+  },
+  {
+    "id": 7,
+    "title": "Masala Dosai",
+    "description": "Crispy rice pancake stuffed with spiced potato filling.",
+    "ingredients": "Rice, Urad Dal, Potatoes, Spices",
+    "rawDirections": "1. Soak rice and urad dal for 6 hours, then grind into a smooth batter.\n2. Ferment the batter overnight.\n3. Boil potatoes and mash them with spices to prepare the filling.\n4. Heat a tawa and spread the batter thinly to make a dosa.\n5. Place the filling in the center and fold the dosa. Serve hot with chutney and sambar.",
+    "imageName": "masala_dosai",
+    "cuisine": "South Indian"
+  },
+  {
+    "id": 8,
+    "title": "Matcha Ice Cream",
+    "description": "Creamy green tea-flavored dessert.",
+    "ingredients": "Milk, Cream, Sugar, Matcha Powder",
+    "rawDirections": "1. Heat milk and sugar until dissolved, then let it cool.\n2. Whisk in matcha powder until smooth.\n3. Add cream and mix well.\n4. Pour the mixture into an ice cream maker and churn until frozen.\n5. Transfer to a container and freeze for 2-4 hours. Serve chilled.",
+    "imageName": "matcha_ice_cream",
+    "cuisine": "Japanese"
+  },
+  {
+    "id": 9,
+    "title": "Pani Poori",
+    "description": "Crispy hollow puris filled with spicy and tangy water.",
+    "ingredients": "Puris, Tamarind, Mint, Potatoes, Spices",
+    "rawDirections": "1. Boil potatoes and mash them with spices for the filling.\n2. Prepare tamarind and mint water by blending the ingredients with spices and water.\n3. Make a small hole in each puri and fill with potato mix and flavored water.\n4. Serve immediately to enjoy the crunch.",
+    "imageName": "pani_poori",
+    "cuisine": "Indian"
+  },
+  {
+    "id": 10,
+    "title": "Rasam Rice",
+    "description": "Comforting South Indian dish of spiced tamarind soup mixed with rice.",
+    "ingredients": "Tamarind, Spices, Rice, Tomatoes",
+    "rawDirections": "1. Boil tamarind extract with tomatoes, spices, and water to make rasam.\n2. Cook rice separately until soft.\n3. Mix hot rasam with cooked rice.\n4. Garnish with coriander leaves and serve with papad or pickle.",
+    "imageName": "rasam_rice",
+    "cuisine": "South Indian"
+  },
+  {
+    "id": 11,
+    "title": "Hyderabadi Dum Biryani",
+    "description": "Rich and aromatic biryani cooked on dum.",
+    "ingredients": "Basmati Rice, Chicken, Spices, Yogurt, Fried Onions",
+    "rawDirections": "1. Marinate chicken with yogurt, spices, and fried onions for 2 hours.\n2. Cook rice until 70% done and layer over the marinated chicken.\n3. Seal the pot and cook on low heat for 30 minutes (dum).\n4. Mix gently and serve hot with raita.",
+    "imageName": "hyderabadi_dum_biryani",
+    "cuisine": "Indian"
+  },
+  {
+    "id": 12,
+    "title": "Chicken Indie Pasta",
+    "description": "Fusion pasta dish with an Indian twist.",
+    "ingredients": "Pasta, Chicken, Indian Spices, Cream, Vegetables",
+    "rawDirections": "1. Boil pasta until al dente and set aside.\n2. Sauté vegetables and chicken in a pan with Indian spices.\n3. Add cream and mix well to make a creamy sauce.\n4. Toss the cooked pasta in the sauce.\n5. Serve hot with grated cheese on top.",
+    "imageName": "chicken_indie_pasta",
+    "cuisine": "Fusion"
+  }
+]
