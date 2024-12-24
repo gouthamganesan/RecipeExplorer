@@ -25,3 +25,20 @@ struct Recipe: Decodable {
         Image(imageName)
     }
 }
+
+extension Recipe {
+    private static var cachedCuisineList: [String] = []
+    
+    static var cuisineList: [String] {
+        cachedCuisineList.isEmpty ? fetchCuisineList() : cachedCuisineList
+    }
+    
+    private static func fetchCuisineList() -> [String] {
+        let cuisineSet = recipes.map { $0.cuisine }
+        return Array(Set((cuisineSet))).sorted()
+    }
+    
+    static func updateCuisineList() {
+        cachedCuisineList = fetchCuisineList()
+    }
+}
